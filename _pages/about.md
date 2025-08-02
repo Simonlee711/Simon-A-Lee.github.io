@@ -20,7 +20,7 @@ Simon A. Lee is a 3rd Year Ph.D. Student at UCLA working in the Computational Me
 - Designing Evaluations and Benchmarks for AI Systems
 - Challenging Fallacies and Malpractices in Artificial Intelligence
 
-Outside of research, he likes to socialize, travel, and experience brand new things. Please do reach out if you have any inquiries regarding both personal and social life at *simonlee711 [at] g [dot] ucla [dot] edu*.
+Outside of research, he likes to socialize, travel, and experience brand new things. Please do reach out if you have any inquiries regarding both personal and social at *simonlee711 [at] g [dot] ucla [dot] edu*.
 
        /\_/\  
       ( o.o )  ~ Simon A. Lee
