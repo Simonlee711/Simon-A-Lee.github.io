@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-HiMAE, Simon's Samsung project gets accepted into the International Conference on Learning Representations (ICLR) among 19,000 papers
+HiMAE, Simon's Samsung project gets accepted into the International Conference on Learning Representations (ICLR) out of 19,000 submissions
 
