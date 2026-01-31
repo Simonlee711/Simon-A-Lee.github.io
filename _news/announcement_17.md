@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Simon will join Google Research in the near future to work on Multimodality
+Simon will join Google Research in the future to work on Multimodality
 
