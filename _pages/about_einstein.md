@@ -1,3 +1,0 @@
-Simon A. Lee is a 2nd Year Ph.D. Student at UCLA working in the Computational Medicine Department. His primary work revolves around developing methods and tools that operate on health/patient data. He also has a broad interest in evaluating AI systems as well as contributing to AI4Science outside the domain of health. Prior to his time as a Ph.D. Student, he worked at Celsius Therapeutics as a Data Science Researcher and was a student at École Polytechnique Fédérale de Lausanne. 
-
-Outside of research, he likes to socialize, travel, and experience brand new things. Please do reach out if you have any inquiries regarding both personal and social life.
